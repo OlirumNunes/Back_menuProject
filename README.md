@@ -33,7 +33,8 @@ To get started with the project, follow these steps:
 
 ps.: Remember to change the username and password according to your needs. 
 <p align="center">
-    <img src="https://github.com/OlirumNunes/Chess_System/assets/150186772/441a4df9-2d5f-4ec1-835e-776d7bf3be1e" width="150px">
+    <img src="https://github.com/OlirumNunes/Back_menuProject/assets/150186772/4ce8947b-c49f-475e-a44c-c9699c259d73" width="250px">
+    <img src="https://github.com/OlirumNunes/Back_menuProject/assets/150186772/cc4afa90-db75-40ca-add5-2adf62ad2377">
 </p>
 
 ## Contributing
